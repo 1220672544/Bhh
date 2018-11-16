@@ -21,11 +21,21 @@
             </intent-filter>
         </activity>
     </application>
+<<<<<<< HEAD
 	
 	 <activity android:name=".TwoActivity">
             
         </activity>
+		fffffffffffff
+		fffffffffffffffff
+		fffffffffffff1
+		
 	
 	
+
+	<activity android:name=".ThirdActivity">
+            
+        </activity>
+
 
 </manifest>
